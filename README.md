@@ -96,6 +96,6 @@ class Queue {
 
 ```
 ![queues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/queues.png)
-![enqueues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/enqueue.png)
-![dequeues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/dequeue.png)
-![queues_bigO](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/queues_bigO.png)
+![enqueues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/engueue.png)
+![dequeues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/degueue.png)
+![queues_bigO](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/queues_bogO.png)
