@@ -3,15 +3,19 @@
 
 
 > ## Node class creation: :wink:
+
+``` js
 class Node {
     constructor(value){
         this.value = value;
         this.next = null;
     }
 }
-
+```
 
 > ## class method creation for Stack class, LIFO (Last In First Out Data Structure): :laughing:
+
+``` js
 class Stack {
     constructor(){
         this.first = null;
@@ -41,10 +45,19 @@ class Stack {
         return temp.value;
     }
 }
+```
+
+![stack](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/stack.png)
+![stack_push](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/stack_push.png)
+![stack_pop](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/stack_pop.png)
+![stack_bigO](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/stack_bigO.png)
+![stack](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/stack.png)
 
 
 
 > ## class method creation for Queue class, FIFO (First In First Out Data Structure): :laughing:
+
+``` js
 class Queue {
     constructor(){
         this.first = null;
@@ -80,3 +93,9 @@ class Queue {
         return temp.value;
     }
 }
+
+```
+![queues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/queues.png)
+![enqueues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/enqueues.png)
+![dequeues](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/dequeues.png)
+![queues_bigO](https://github.com/NoriKaneshige/Stack_and_Queues_Data_Structure/blob/master/queues_bigO.png)
